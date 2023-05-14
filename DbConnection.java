@@ -6,7 +6,7 @@ public class DbConnection {
     // Connection object
     private Connection myConnection = null;
     // URL to your database
-    private String url = "jdbc:mysql://localhost:3306/ict";
+    private String url = "jdbc:mysql://localhost:3306/Database name";
     // Username of the user which use to access the database
     private String user = "root";
     // password of the user which use to access the database
